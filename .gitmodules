@@ -1,0 +1,15 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/willschipp/api-gateway.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/willschipp/eureka-server.git
+[submodule "admin-client"]
+	path = admin-client
+	url = https://github.com/willschipp/admin-client.git
+[submodule "db-via-rest"]
+	path = db-via-rest
+	url = https://github.com/willschipp/db-via-rest.git
+[submodule "be-service"]
+	path = be-service
+	url = https://github.com/willschipp/be-service.git
