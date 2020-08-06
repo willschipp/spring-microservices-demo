@@ -13,3 +13,6 @@
 [submodule "be-service"]
 	path = be-service
 	url = https://github.com/willschipp/be-service.git
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:willschipp/config-server.git
